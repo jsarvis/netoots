@@ -17,8 +17,14 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 ================================================================*/
-class Client{
-   static void Main() {
-      System.Console.WriteLine("Test");
-   }   
+namespace netoots
+{
+    class Client
+    {
+        static void Main()
+        {
+            System.Console.WriteLine("Test");
+        }
+    }
+
 }
